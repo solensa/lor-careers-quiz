@@ -160,6 +160,10 @@ input[type="radio"]:checked + label {
   line-height: 29px;
 }
 
+#resultsBox h2 {
+  margin-bottom: 0;
+}
+
 .quizItem div {
   margin-bottom: 15px;
   position: relative;
@@ -357,7 +361,7 @@ button.bounceBtn2:hover {
 .quizItem img {
   width: 100%;
   margin-bottom: 15px;
-  max-width: 350px;
+  /* max-width: 350px; */
 }
 
 .resultBlock .quizItem p {
@@ -472,7 +476,7 @@ button.bounceBtn2:hover {
 }
 
 .graph {
-  margin: 40px 0 !important;
+  /* margin: 40px 0 !important; */
 }
 #resultsBox > p {
   margin: 10px 0px 0px 0;
